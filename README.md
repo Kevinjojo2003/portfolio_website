@@ -1,5 +1,7 @@
 # Personal Website
 
+![image](https://github.com/Kevinjojo2003/portfolio_website/assets/140486045/42c7ef1e-6fbe-40ef-bdc1-dad0ba2107bb)
+
 
 Features
 Responsive Design: The website layout adapts to different screen sizes for a seamless user experience on various devices.
